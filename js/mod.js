@@ -1,6 +1,6 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
+	name: "the horrible tree",
+	id: "joe71238238218127", // dont change this you idiot
 	author: "nobody",
 	pointsName: "points",
 	discordName: "",
